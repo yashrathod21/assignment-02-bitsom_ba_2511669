@@ -1,0 +1,89 @@
+[
+  {
+    "_id": "prod_elec_001",
+    "category": "Electronics",
+    "product_name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "price": 124999,
+    "currency": "INR",
+    "in_stock": true,
+    "stock_quantity": 45,
+    "specifications": {
+      "display": "6.8 inch Dynamic AMOLED 2X",
+      "processor": "Snapdragon 8 Gen 3",
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "battery_mah": 5000,
+      "camera_mp": 200,
+      "voltage": "5V / 45W fast charging",
+      "warranty_years": 1,
+      "water_resistance": "IP68"
+    },
+    "tags": ["smartphone", "android", "flagship", "5G"],
+    "ratings": {
+      "average": 4.6,
+      "total_reviews": 2341
+    },
+    "added_on": "2024-01-20"
+  },
+  {
+    "_id": "prod_cloth_001",
+    "category": "Clothing",
+    "product_name": "Men's Slim Fit Formal Shirt",
+    "brand": "Raymond",
+    "price": 1899,
+    "currency": "INR",
+    "in_stock": true,
+    "stock_quantity": 200,
+    "specifications": {
+      "fabric": "Cotton-Polyester Blend",
+      "fit_type": "Slim Fit",
+      "sleeve": "Full Sleeve",
+      "occasion": "Formal",
+      "care_instructions": ["Machine wash cold", "Do not bleach", "Iron on medium heat"],
+      "available_sizes": ["S", "M", "L", "XL", "XXL"],
+      "available_colors": ["White", "Light Blue", "Pale Grey"]
+    },
+    "tags": ["formal", "shirt", "office-wear", "men"],
+    "ratings": {
+      "average": 4.2,
+      "total_reviews": 876
+    },
+    "added_on": "2023-11-10"
+  },
+  {
+    "_id": "prod_groc_001",
+    "category": "Groceries",
+    "product_name": "Organic Cold-Pressed Coconut Oil",
+    "brand": "Organic India",
+    "price": 449,
+    "currency": "INR",
+    "in_stock": true,
+    "stock_quantity": 530,
+    "specifications": {
+      "weight_ml": 500,
+      "type": "Cold Pressed, Virgin",
+      "organic_certified": true,
+      "expiry_date": "2025-06-30",
+      "manufactured_on": "2024-06-30",
+      "shelf_life_months": 12,
+      "storage_instructions": "Store in a cool, dry place away from direct sunlight",
+      "nutritional_info": {
+        "serving_size_ml": 14,
+        "calories_per_serving": 120,
+        "total_fat_g": 14,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0,
+        "cholesterol_mg": 0,
+        "sodium_mg": 0
+      },
+      "allergens": []
+    },
+    "tags": ["oil", "organic", "cooking", "vegan", "cold-pressed"],
+    "ratings": {
+      "average": 4.8,
+      "total_reviews": 1203
+    },
+    "added_on": "2024-07-01"
+  }
+]
